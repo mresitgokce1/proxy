@@ -120,4 +120,4 @@ class Proxy:
 
 if __name__ == "__main__":
     proxy = Proxy()
-    proxy.run("127.0.0.1", 3000)
+    proxy.run("54.220.192.176", 3000)
